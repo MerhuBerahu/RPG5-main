@@ -1,0 +1,79 @@
+
+# TODO beings class
+    [x] name
+    [ ] race
+    [x] sex
+    [ ] age
+    [ ] inventory
+    [ ] level
+    [ ] mainjob
+    [ ] subjob
+    [ ] gold
+
+//  [ ] race class
+    [x] name
+    [x] description
+    [ ] hp
+    [ ] mp
+    [ ] strength
+    [ ] dexterity 
+    [ ] vitality
+    [ ] agility
+    [ ] intelligence 
+    [ ] mind 
+    [ ] charisma
+
+
+//  [ ] character class
+    [ ] currentexp
+    [ ] exptnl
+
+//  [ ] enemy class
+    [ ] loot
+
+//  [ ] NPC class
+    [ ] quests
+    [ ] merchant
+
+
+
+
+//  [ ] job class
+    [ ] name
+    [ ] description
+    [ ] hp
+    [ ] mp
+    [ ] spellist
+    [ ] bilitylist
+
+
+//  [ ] items class
+	[ ] "id"	integer,
+	[ ] "name"	text,
+	[ ] "attack"	integer,
+	[ ] "elemental_damage_type"	text,
+	[ ] "elemental_damage_amount"	integer,
+	[ ] "parry_rate"	integer,
+	[ ] "block_rate"	integer,
+	[ ] "critical_attack_rate"	integer,
+	[ ] "critical_attack_modifier"	integer,
+	[ ] "bodypart"	text,
+	[ ] "defense"	integer,
+	[ ] "description"	text,
+	[ ] "equipped"	integer,
+	[ ] "owned"	integer,
+	[ ] "price"	integer,
+	[ ] "type"	text,
+	[ ] "subtype"	text,
+	[ ] "consumable"	TEXT
+
+
+//  [ ] Functions
+    [ ] npc generator
+    [ ] combat
+    [x] clock
+    [ ] loot table
+    [ ] Character creator
+    
+
+
